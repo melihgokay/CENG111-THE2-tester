@@ -1,7 +1,7 @@
 # CENG111-THE2-tester
 
 # Instructions:
-1-Download the repository.
+1-Download or clone the repository.
 
 2-Copy your solution to the "the2.py" (following the stated rules).
 
